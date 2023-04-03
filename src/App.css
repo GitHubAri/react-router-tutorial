@@ -1,3 +1,11 @@
 .navBarCss{
   background-color: bisque;
 }
+
+.prodPage{
+  background-color: aqua;
+
+  text-align: center;
+
+  padding: 30px 20;
+}
